@@ -1,0 +1,7 @@
+node_modules/
+.env
+cookies.txt
+package-lock.json
+npm-debug.log*
+*.log
+
